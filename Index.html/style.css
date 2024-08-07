@@ -1,0 +1,187 @@
+ .First{
+	background:white;
+    width:99%;
+	height:30%;
+	color:gray;
+	font-size:300%;
+	border:2px solid black;
+	border-radius:25px 0;
+	text-shadow:8px 11px 8px gray;
+	box-shadow:1opx 15px 10px black;
+	font-family:Algerian;
+}
+.First:hover{
+	background:Linear-gradient(blue,green,yellow,black);
+	width:100%;
+	height:40%;
+	color:red;
+	font-size:350%;
+	border:2px solid red;
+	text-shadow:8px 11px 8px orange;
+	box-shadow:10px 15px 10px red;
+	transition:3s;
+	font-family:Old English Text MT;
+}
+.p{
+	font-family:Algerian;	
+}
+.r{
+	font-family:Algerian;
+}
+.e{
+	font-family:Algerian;	
+}
+.h{
+	font-family:Algerian;
+}
+.ajm{
+	font-family:i;
+	color:green;
+}
+.mak{
+	color:green;
+}
+.mak:hover{
+	color:blue;
+}
+.rk{
+	color:blue;
+}
+.rk:hover{
+	color:green;
+}
+.funparagraph{
+	color:purple;
+	font-family:Algerian;
+	font-size:24px;
+	background-color:#C6E2B5;
+	font-style:normal;
+	font-variant:normal;
+}
+.funparagraphs{
+	color:purple;
+	font-family:Algerian;
+	font-size:24px;
+	background-color:#C6E2B5;
+	font-style:normal;
+}
+.paragraph{
+	color:#556B2F;
+}
+.pa{
+	color:red;
+}
+.ro{
+	color:purple;
+	font-family:Algerian;
+	font-size:24px;
+	background-color:#C6E2B5;
+	font-style:normal;
+}
+.ar{
+	color:purple;
+	font-family:Algerian;
+	font-size:24px;
+	background-color:#C6E2B5;
+	font-style:normal;
+}
+.ju{
+	color:purple;
+	font-family:Algerian;
+	font-size:24px;
+	background-color:#C6E2B5;
+	font-style:normal;
+}
+.juu{
+	color:green;
+}
+.uj{
+	color:green;
+}
+.ujj{
+	color:green;
+}
+.uuj{
+	color:green;
+}
+.uujj{
+	color:green;
+}
+.funparagraph:hover{
+	color:green;
+	font-family:Georgia;
+	font-size:24px;
+	background-color:#FF8C00;
+	font-style:normal;
+	
+}
+.ju:hover{
+	color:orange;
+	font-family:Georgia;
+	font-size:24px;
+	background-color:#C6E2B5;
+	font-style:normal;
+}
+.ar:hover{
+	color:purple;
+	font-family:Georgia;
+	font-size:24px;
+	background-color:#FFFFE0;
+	font-style:normal;
+}
+.ro:hover{
+	color:#FF9900;
+	font-family:Georgia;
+	font-size:24px;
+	background-color:#FFC5C5;
+	font-style:normal;
+}
+.funparagraphs:hover{
+	color:red;
+	font-family:Georgia;
+	font-size:24px;
+	background-color:#C6E2B5;
+	font-style:normal;
+}
+.am{
+	color:red;
+}
+.ma{
+	color:green;
+}
+.maa{
+	color:orange;
+}
+.az{
+	color:purple
+}
+.ep{
+	color:red;
+}
+.maj{
+	color:green;
+}
+.am:hover{
+	color:green;
+}
+.ma:hover{
+	color:red;
+}
+.maa:hover{
+	color:purple;
+}
+.az:hover{
+	color:orange;
+}
+.ep:hover{
+	color:green;
+}
+.maj:hover{
+	color:red;
+}
+.h:hover{
+	color:orange;
+}
+.ajml{
+	color:red;
+}
